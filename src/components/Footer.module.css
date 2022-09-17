@@ -1,0 +1,107 @@
+.footer1 {
+  position: relative;
+  height: 301px;
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+  width: 1440px;
+  margin: 0 auto;
+}
+.div {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  top: 80px;
+}
+
+.logoSocial {
+  position: relative;
+  width: 270px;
+  height: 172px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 135px;
+  justify-content: space-between;
+}
+.p {
+  position: relative;
+  width: 270px;
+  height: 54px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  color: #353a5a;
+  top: -10px;
+}
+.contacts {
+  position: relative;
+  width: 89px;
+  height: 171px;
+  margin-left: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #353a5a;
+}
+
+.aboutUs {
+  position: relative;
+  width: 121px;
+  height: 171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  margin-left: 111px;
+  font-size: 16px;
+  line-height: 100%;
+  color: #353a5a;
+}
+.connection {
+  position: relative;
+  width: 132px;
+  height: 171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  margin-left: 79px;
+  font-size: 16px;
+  line-height: 100%;
+  color: #353a5a;
+}
+.forQuestions {
+  position: relative;
+  width: 182px;
+  height: 88px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  color: #353a5a;
+  margin-left: 68px;
+}
+.first {
+  position: relative;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.span {
+  position: relative;
+  margin-bottom: 20px;
+}

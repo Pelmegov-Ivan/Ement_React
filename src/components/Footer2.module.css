@@ -1,0 +1,41 @@
+.footer2 {
+  position: relative;
+  height: 74px;
+  width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+.rights {
+  position: relative;
+  left: 135px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+}
+.politics {
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+  left: 640px;
+}
+.offer {
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+  left: 670px;
+}

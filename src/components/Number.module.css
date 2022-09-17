@@ -1,0 +1,39 @@
+.number {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 100%;
+  text-align: center;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #10b582;
+}
+.numbers {
+  position: relative;
+  width: 1170px;
+  height: 107px;
+  display: flex;
+  justify-content: space-between;
+  top: 120px;
+}
+.numtext {
+  position: relative;
+  width: 270px;
+  height: 107px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text {
+  position: relative;
+  width: 270px;
+  height: 34px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  text-align: center;
+  color: #353a5a;
+  top: 15px;
+}

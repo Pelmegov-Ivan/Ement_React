@@ -1,0 +1,62 @@
+.currentKnowledge {
+  position: relative;
+  background: #10b582;
+  height: 556px;
+}
+.photo {
+  position: relative;
+  top: 150px;
+  left: 1035px;
+  z-index: 1;
+}
+.dash {
+  position: relative;
+  top: 120px;
+  left: 465px;
+  z-index: 0;
+}
+.div {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 540px;
+  top: -220px;
+  left: 135px;
+}
+.h1 {
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 120%;
+  color: #fdfdfd;
+}
+.p {
+  position: relative;
+  width: 478px;
+  height: 120px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #fdfdfd;
+  top: -30px;
+}
+.button {
+  position: relative;
+  width: 230px;
+  height: 56px;
+  background: #fa9f42;
+  border-radius: 0px 20px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  text-align: center;
+  color: #fdfdfd;
+  border: 0;
+  top: 10px;
+}

@@ -1,0 +1,50 @@
+.h1 {
+  position: relative;
+  width: 491px;
+  height: 58px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 100%;
+  white-space: nowrap;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+}
+.p {
+  position: relative;
+  width: 500px;
+  height: 159px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #353a5a;
+  top: 40px;
+}
+.button {
+  position: relative;
+  width: 230px;
+  height: 56px;
+  background: #10b582;
+  border: 0;
+  border-radius: 0px 20px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  text-align: center;
+  color: #fdfdfd;
+  top: 60px;
+}
+.text {
+  position: relative;
+  width: 500px;
+  height: 343px;
+  top: 234px;
+}
+.button:hover {
+  cursor: pointer;
+}

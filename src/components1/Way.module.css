@@ -1,0 +1,41 @@
+.way {
+  position: relative;
+  width: 1170px;
+  height: 14px;
+  margin: 0 auto;
+}
+.div {
+  position: relative;
+  width: 256px;
+  height: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img {
+  position: relative;
+  width: 4px;
+  height: 9px;
+}
+.span {
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  color: #353a5a;
+  border-bottom: 0;
+  text-decoration: none;
+}
+.last {
+  position: relative;
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  color: #353a5a;
+  opacity: 0.5;
+}

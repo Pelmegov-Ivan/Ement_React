@@ -1,0 +1,34 @@
+.foto {
+  position: absolute;
+  width: 270px;
+  height: 330px;
+  right: 135px;
+  top: 120px;
+}
+.down {
+  position: absolute;
+  width: 10px;
+  top: 70px;
+  left: 2px;
+}
+.scroll_down {
+  position: absolute;
+  width: 98px;
+  height: 10px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  color: #fdfdfd;
+  transform: rotate(-90deg);
+}
+.scroll {
+  position: absolute;
+  width: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  right: 135px;
+  top: 551px;
+}

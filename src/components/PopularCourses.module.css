@@ -1,0 +1,68 @@
+.popularcourses {
+  position: relative;
+  height: 720px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.h1 {
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 100%;
+  top: 80px;
+  text-align: center;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+}
+.inputs {
+  position: relative;
+  width: 1170px;
+  display: flex;
+  justify-content: space-between;
+  top: 105px;
+}
+.inputtxt {
+  position: relative;
+  width: 270px;
+  height: 226px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: #fdfdfd;
+  box-shadow: 5px 5px 30px rgba(101, 101, 101, 0.12);
+  border-radius: 10px;
+}
+.txt {
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+  top: 15px;
+  align-self: start;
+  left: 20px;
+}
+.button {
+  position: relative;
+  width: 230px;
+  height: 56px;
+  background: #10b582;
+  border-radius: 0px 20px;
+  border: 0;
+  top: 195px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  text-align: center;
+  color: #fdfdfd;
+}

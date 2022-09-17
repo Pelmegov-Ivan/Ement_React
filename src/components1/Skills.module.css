@@ -1,0 +1,92 @@
+.skills {
+  position: relative;
+  width: 1170px;
+  margin: 100px auto;
+  height: 369px;
+  display: flex;
+  flex-direction: column;
+}
+.h1 {
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 100%;
+  text-align: center;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+}
+.competency {
+  position: relative;
+  width: 1170;
+  display: flex;
+  justify-content: space-between;
+  height: 135px;
+  align-items: center;
+  top: 30px;
+}
+.div {
+  position: relative;
+  width: 270px;
+  height: 135px;
+  display: flex;
+  flex-direction: column;
+  background: #fdfdfd;
+  box-shadow: 5px 5px 30px rgba(101, 101, 101, 0.12);
+  border-radius: 10px;
+  justify-content: center;
+  align-items: flex-start;
+}
+.img {
+  display: flex;
+  width: 198px;
+  height: 16px;
+
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+  left: 15px;
+  top: -10px;
+}
+.txt {
+  display: block;
+  position: relative;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+  width: 240px;
+  height: 54px;
+  align-self: center;
+  top: 5px;
+}
+.span {
+  position: relative;
+  left: 8px;
+}
+.button {
+  position: relative;
+  width: 230px;
+  height: 56px;
+  background: #10b582;
+  border-radius: 0px 20px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  text-align: center;
+  color: #fdfdfd;
+  border: 0;
+  margin: auto;
+  top: 100px;
+}

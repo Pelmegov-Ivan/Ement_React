@@ -1,0 +1,59 @@
+.joinUs {
+  position: relative;
+  height: 698px;
+  width: 1440px;
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #e5e5e5;
+}
+.h1 {
+  position: relative;
+  width: 508px;
+  height: 140px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 120%;
+  color: #353a5a;
+}
+.p {
+  position: relative;
+  width: 508px;
+  height: 72px;
+  top: -35px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+}
+.button {
+  position: relative;
+  width: 230px;
+  height: 56px;
+  background: #fa9f42;
+  border-radius: 0px 20px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  text-align: center;
+  color: #fdfdfd;
+  border: 0;
+}
+.div {
+  position: relative;
+  width: 580px;
+  left: 735px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  top: 80px;
+}
